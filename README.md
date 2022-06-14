@@ -1,5 +1,4 @@
 # Movie list task
-
 1. Clone this repository
 * The repo contains an incomplete application and a sample dataset.
 * This application displays a card for each of the first 200 movies in the included JSON data file
@@ -15,3 +14,6 @@
 * Mock-up an example of how you think the applications UI could be improved, for example adding more advanced search or filtering features
 * Mock-up/wireframe an example of a proposed page thath would be shown after the user clicked on a `MovieCard`
 3.	When you are finished, add your modified files to a public repository, either on Github or Bitbucket
+
+# Additional Support
+Please let us know if you require any support in completing this task, including any reasonable adjustments.
