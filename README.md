@@ -10,10 +10,10 @@
 * Refactor to move the data filtering and mapping to its own function, seperate to the render
 * Add a filter and corresponding UI element to the application, e.g. to enable users to filter the list based on release date or budget
 * Add a UI component to set the number of results displayed, this is currently hardcoded to 200
-* Convert one of the components to TypeScript
+* Convert one or more of the components to TypeScript
 * Mock-up an example of how you think the applications UI could be improved, for example adding more advanced search or filtering features
-* Mock-up/wireframe an example of a proposed page thath would be shown after the user clicked on a `MovieCard`
-3.	When you are finished, add your modified files to a new repository on Github, and invite the user `simonrradar` as a collaborator
+* Mock-up/wireframe an example of a proposed page that would be shown after the user clicked on a `MovieCard`
+3.	When you are finished, add your modified files to a new private repository on Github, and invite the user `simonrradar` as a collaborator
 
 # Additional Support
 Please let us know if you require any support in completing this task, including any reasonable adjustments.
