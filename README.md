@@ -3,7 +3,7 @@
 * The repo contains an incomplete application and a sample dataset.
 * This application displays a card for each of the first 200 movies in the included JSON data file
 * The user can click on “like” or “dislike” for each card, although this is not functional right now
-* The application makes use of https://react.semantic-ui.com/
+* The application currently makes use of https://react.semantic-ui.com/, but feel free to change this if you'd prefer
 2. Depending on your confidence, please choose and attempt a selection of the below tasks:
 * Update the “like” button on the `MovieCard` component to change colour or style when clicked
 * Refactor the application to separate the `Movies` and `MovieCard` components out into their own files
