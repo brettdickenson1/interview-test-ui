@@ -13,7 +13,7 @@
 * Convert one of the components to TypeScript
 * Mock-up an example of how you think the applications UI could be improved, for example adding more advanced search or filtering features
 * Mock-up/wireframe an example of a proposed page thath would be shown after the user clicked on a `MovieCard`
-3.	When you are finished, add your modified files to a public repository, either on Github or Bitbucket
+3.	When you are finished, add your modified files to a new repository on Github, and invite the user `simonrradar` as a collaborator
 
 # Additional Support
 Please let us know if you require any support in completing this task, including any reasonable adjustments.
