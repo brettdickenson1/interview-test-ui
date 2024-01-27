@@ -1,0 +1,13 @@
+.movies-header {
+  font-size: 1.2rem;
+}
+
+.filter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+  padding: 0 25px;
+  border-radius: 20px;
+}
